@@ -3,7 +3,7 @@ Hi! 👋
 ## About Me
 - Education: BSc Maths with Finance
 - Interests: ML, Quant Analysis, Financial Research, Trading, Math
-- Currently Learning: Algorithsm, Data Structures, ML
+- Currently Learning: Algorithms, Data Structures, ML
 - Completed: Harvard's CS50P course
 
 ## Skills
