@@ -9,11 +9,12 @@ Welcome to my GitHub! I'm a **Mathematics with Finance** undergrad passionate ab
 
 ## Skills
 - Programming Languages: Python, HTML, CSS, JavaScript, SQL (more to come!)
-- Libraries: Pandas, NumPy, Matplotlib, Sci-kit learn, Tensor Flow
-- ML: Currently exploring Andrew Ng's ML specialisation
+- Libraries: Pandas, NumPy, Matplotlib, Sci-kit learn, TensorFlow
+- ML: Regression Analysis, Clustering Models, Artificial Neural Networks, Decision Trees, Random Forests 
 
 ## Projects
 - Linear regression to predict stock price movement
+- 
 
 ## Get in Touch
 - Email: khalid.a.hajeer@gmail.com
